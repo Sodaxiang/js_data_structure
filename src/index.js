@@ -5,4 +5,7 @@
 // require('./structure/queue')
 
 // 链表的测试
-require('./structure/linked_list')
+// require('./structure/linked_list')
+
+// 哈希表的测试
+require('./structure/hash_table');
