@@ -8,4 +8,7 @@
 // require('./structure/linked_list')
 
 // 哈希表的测试
-require('./structure/hash_table');
+// require('./structure/hash_table');
+
+// 树的测试
+require('./structure/tree')
